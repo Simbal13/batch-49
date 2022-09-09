@@ -7,6 +7,7 @@ public static void main(String[]args){
     System.out.println(s);
     float d= divide(455222,22);
     System.out.println(d);
+      System.out.println(d);
 
 
 
